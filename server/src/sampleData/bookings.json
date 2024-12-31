@@ -1,0 +1,156 @@
+{
+    "bookedDetails": [
+      {
+        "hotelId": 1,
+        "bookedHotel": {
+          "hotelId": 1,
+          "basicInfo": {
+            "hotelName": "Leela Palace",
+            "address": {
+              "countryCode": "IN",
+              "country": {
+                "id": 35,
+                "name": "India"
+              },
+              "city": {
+                "id": 17269,
+                "name": "Chennai"
+              },
+              "area": {
+                "id": 483419,
+                "name": "Old Mahabalipuram Road & East Coast Road"
+              }
+            }
+          },
+          "geoInfo": {
+            "latitude": 12.84206771850586,
+            "longitude": 80.22769165039062
+          },
+          "hotelBanner": {
+            "url": "//pix8.agoda.net/hotelImages/109837/-1/b81dcfe37390f0e143f53880271bd696.jpg?ca=7&ce=1"
+          },
+          "hotelFacilityImages": [
+            {
+              "id": 41469082,
+              "category": "Food and beverages",
+              "providerId": 3038,
+              "urls": {
+                "key": "original",
+                "value": "https://cf.bstatic.com/xdata/images/hotel/max500/605165063.jpg?k=2d3768665c835b7d1a60a5354f3575ebe64cff18386df3197b12420b0618cc88&o="
+              }
+            },
+            {
+              "id": 70234968,
+              "category": "Swimming pool",
+              "providerId": 332,
+              "urls": {
+                "key": "original",
+                "value": "https://cf.bstatic.com/xdata/images/hotel/max500/605165196.jpg?k=51ad338654e50eec641295ad092a365200c96a1c4b78820b26b24df797b7900b&o="
+              }
+            },
+            {
+              "id": 41469063,
+              "category": "Lobby",
+              "providerId": 3038,
+              "urls": {
+                "key": "original",
+                "value": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/605166622.jpg?k=716ea84f276bcf416db1ecc2d458bafd9d508c84823a12e5121a3d7f30029d3d&o="
+              }
+            },
+            {
+              "id": 41469061,
+              "category": "Food and beverages",
+              "providerId": 3038,
+              "urls": {
+                "key": "original",
+                "value": "https://cf.bstatic.com/xdata/images/hotel/max300/605165052.jpg?k=7ea8d374f946ca73f2e47ae5f8c50425a8d2630f7d77842982522092b125ab29&o="
+              }
+            },
+            {
+              "id": 70234950,
+              "category": "Exterior view",
+              "providerId": 332,
+              "urls": {
+                "key": "original",
+                "value": "https://cf.bstatic.com/xdata/images/hotel/max300/605166737.jpg?k=b38fe00149a16bb2d3b831c75516f48591d8da7769349aadf88f4f64b3644b23&o="
+              }
+            }
+          ],
+          "facilities": {
+            "features": [
+              {
+                "id": 93,
+                "title": "Swimming pool",
+                "category": ""
+              },
+              {
+                "id": 17,
+                "title": "Airport transfer",
+                "category": "property-facility"
+              },
+              {
+                "id": 58,
+                "title": "Sauna",
+                "category": "property-facility"
+              }
+            ]
+          },
+          "priceDetails": {
+            "startsFrom": 1200
+          }
+        },
+        "bookedRooms": [
+          {
+            "roomId": 1,
+            "numberOfRooms": 2,
+            "totalPrice": 2000,
+            "bookedFromDate": "Jan 1st",
+            "bookedToDate": "Jan 3rd",
+            "isCancellable": true,
+            "canEdit": true,
+            "roomDetails": {
+              "roomId": 2,
+              "title": "Classic",
+              "price": {
+                "perRoom": 1200
+              },
+              "availableDate": null,
+              "roomFacililites": [
+                {
+                  "id": 2,
+                  "title": "Double Bed"
+                },
+                {
+                  "id": 4,
+                  "title": "Free Wifi"
+                },
+                {
+                  "id": 5,
+                  "title": "Private Pool"
+                }
+              ],
+              "roomImages": [
+                {
+                  "key": "main",
+                  "value": "//q-xx.bstatic.com/xdata/images/hotel/max1024x768/605767948.jpg?k=4fca19a2d17959f128223e53f0705dc340b6b933ca0452f3096e506eadc61cd5&o="
+                },
+                {
+                  "key": "gallery_preview",
+                  "value": "//q-xx.bstatic.com/xdata/images/hotel/max300/605767948.jpg?k=4fca19a2d17959f128223e53f0705dc340b6b933ca0452f3096e506eadc61cd5&o="
+                },
+                {
+                  "key": "thumbnail",
+                  "value": "//q-xx.bstatic.com/xdata/images/hotel/max300/605767948.jpg?k=4fca19a2d17959f128223e53f0705dc340b6b933ca0452f3096e506eadc61cd5&o="
+                },
+                {
+                  "key": "thumbnail-2x",
+                  "value": "//q-xx.bstatic.com/xdata/images/hotel/max300/605767948.jpg?k=4fca19a2d17959f128223e53f0705dc340b6b933ca0452f3096e506eadc61cd5&o="
+                }
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  }
+  

@@ -1,0 +1,354 @@
+[
+  {
+    "hotelId": 1,
+    "basicInfo": {
+      "hotelName": "Leela Palace",
+      "address": {
+        "countryCode": "IN",
+        "country": {
+          "id": 35,
+          "name": "India"
+        },
+        "city": {
+          "id": 17269,
+          "name": "Bangalore"
+        },
+        "area": {
+          "id": 483419,
+          "name": "Old Mahabalipuram Road & East Coast Road"
+        }
+      }
+    },
+    "geoInfo": {
+      "latitude": 12.84206771850586,
+      "longitude": 80.22769165039062
+    },
+    "hotelBanner": {
+      "url": "//pix8.agoda.net/hotelImages/109837/-1/b81dcfe37390f0e143f53880271bd696.jpg?ca=7&ce=1"
+    },
+    "hotelFacilityImages": [
+      {
+        "id": 41469082,
+        "category": "Food and beverages",
+        "providerId": 3038,
+        "urls": {
+          "key": "original",
+          "value": "https://cf.bstatic.com/xdata/images/hotel/max500/605165063.jpg?k=2d3768665c835b7d1a60a5354f3575ebe64cff18386df3197b12420b0618cc88&o="
+        }
+      },
+      {
+        "id": 70234968,
+        "category": "Swimming pool",
+        "providerId": 332,
+        "urls": {
+          "key": "original",
+          "value": "https://cf.bstatic.com/xdata/images/hotel/max500/605165196.jpg?k=51ad338654e50eec641295ad092a365200c96a1c4b78820b26b24df797b7900b&o="
+        }
+      },
+      {
+        "id": 41469063,
+        "category": "Lobby",
+        "providerId": 3038,
+        "urls": {
+          "key": "original",
+          "value": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/605166622.jpg?k=716ea84f276bcf416db1ecc2d458bafd9d508c84823a12e5121a3d7f30029d3d&o="
+        }
+      },
+      {
+        "id": 41469061,
+        "category": "Food and beverages",
+        "providerId": 3038,
+        "urls": {
+          "key": "original",
+          "value": "https://cf.bstatic.com/xdata/images/hotel/max300/605165052.jpg?k=7ea8d374f946ca73f2e47ae5f8c50425a8d2630f7d77842982522092b125ab29&o="
+        }
+      }
+    ],
+    "facilities": {
+      "features": [
+        {
+          "id": 93,
+          "title": "Swimming pool",
+          "category": ""
+        },
+        {
+          "id": 17,
+          "title": "Airport transfer",
+          "category": "property-facility"
+        },
+        {
+          "id": 58,
+          "title": "Sauna",
+          "category": "property-facility"
+        }
+      ]
+    },
+    "priceDetails": {
+      "startsFrom": 1200
+    }
+  },
+  {
+    "hotelId": 2,
+    "basicInfo": {
+      "hotelName": "Hotel Paradise",
+      "address": {
+        "countryCode": "IN",
+        "country": {
+          "id": 35,
+          "name": "India"
+        },
+        "city": {
+          "id": 17269,
+          "name": "Chennai"
+        },
+        "area": {
+          "id": 483419,
+          "name": "Old Mahabalipuram Road & East Coast Road"
+        }
+      }
+    },
+    "geoInfo": {
+      "latitude": 12.84206771850586,
+      "longitude": 80.22769165039062
+    },
+    "hotelBanner": {
+      "url": "https://cf.bstatic.com/xdata/images/hotel/square600/605166622.webp?k=30c2cfb7516ba988a72d72c25fc7e24d13a4ad070182b33b408ea0f568f93e73&o="
+    },
+    "hotelFacilityImages": [
+      {
+        "id": 41469082,
+        "category": "Food and beverages",
+        "providerId": 3038,
+        "urls": {
+          "key": "original",
+          "value": "https://cf.bstatic.com/xdata/images/hotel/max500/605165063.jpg?k=2d3768665c835b7d1a60a5354f3575ebe64cff18386df3197b12420b0618cc88&o="
+        }
+      },
+      {
+        "id": 70234968,
+        "category": "Swimming pool",
+        "providerId": 332,
+        "urls": {
+          "key": "original",
+          "value": "https://cf.bstatic.com/xdata/images/hotel/max500/605165196.jpg?k=51ad338654e50eec641295ad092a365200c96a1c4b78820b26b24df797b7900b&o="
+        }
+      },
+      {
+        "id": 41469063,
+        "category": "Lobby",
+        "providerId": 3038,
+        "urls": {
+          "key": "original",
+          "value": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/605166622.jpg?k=716ea84f276bcf416db1ecc2d458bafd9d508c84823a12e5121a3d7f30029d3d&o="
+        }
+      },
+      {
+        "id": 41469061,
+        "category": "Food and beverages",
+        "providerId": 3038,
+        "urls": {
+          "key": "original",
+          "value": "https://cf.bstatic.com/xdata/images/hotel/max300/605165052.jpg?k=7ea8d374f946ca73f2e47ae5f8c50425a8d2630f7d77842982522092b125ab29&o="
+        }
+      }
+    ],
+    "facilities": {
+      "features": [
+        {
+          "id": 93,
+          "title": "Swimming pool",
+          "category": ""
+        },
+        {
+          "id": 17,
+          "title": "Airport transfer",
+          "category": "property-facility"
+        },
+        {
+          "id": 58,
+          "title": "Sauna",
+          "category": "property-facility"
+        }
+      ]
+    },
+    "priceDetails": {
+      "startsFrom": 1200
+    }
+  },
+  {
+    "hotelId": 3,
+    "basicInfo": {
+      "hotelName": "Vasavi Residency",
+      "address": {
+        "countryCode": "IN",
+        "country": {
+          "id": 35,
+          "name": "India"
+        },
+        "city": {
+          "id": 17269,
+          "name": "Pune"
+        },
+        "area": {
+          "id": 483419,
+          "name": "Old Mahabalipuram Road & East Coast Road"
+        }
+      }
+    },
+    "geoInfo": {
+      "latitude": 12.84206771850586,
+      "longitude": 80.22769165039062
+    },
+    "hotelBanner": {
+      "url": "https://cf.bstatic.com/xdata/images/hotel/square600/619535738.webp?k=910bec7d8eaac43c2e506ec6ffe183ca20a2bbbdf712f26173fa3684c5fa69c2&o="
+    },
+    "hotelFacilityImages": [
+      {
+        "id": 41469082,
+        "category": "Food and beverages",
+        "providerId": 3038,
+        "urls": {
+          "key": "original",
+          "value": "https://cf.bstatic.com/xdata/images/hotel/max500/605165063.jpg?k=2d3768665c835b7d1a60a5354f3575ebe64cff18386df3197b12420b0618cc88&o="
+        }
+      },
+      {
+        "id": 70234968,
+        "category": "Swimming pool",
+        "providerId": 332,
+        "urls": {
+          "key": "original",
+          "value": "https://cf.bstatic.com/xdata/images/hotel/max500/605165196.jpg?k=51ad338654e50eec641295ad092a365200c96a1c4b78820b26b24df797b7900b&o="
+        }
+      },
+      {
+        "id": 41469063,
+        "category": "Lobby",
+        "providerId": 3038,
+        "urls": {
+          "key": "original",
+          "value": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/605166622.jpg?k=716ea84f276bcf416db1ecc2d458bafd9d508c84823a12e5121a3d7f30029d3d&o="
+        }
+      },
+      {
+        "id": 41469061,
+        "category": "Food and beverages",
+        "providerId": 3038,
+        "urls": {
+          "key": "original",
+          "value": "https://cf.bstatic.com/xdata/images/hotel/max300/605165052.jpg?k=7ea8d374f946ca73f2e47ae5f8c50425a8d2630f7d77842982522092b125ab29&o="
+        }
+      }
+    ],
+    "facilities": {
+      "features": [
+        {
+          "id": 93,
+          "title": "Swimming pool",
+          "category": "property-facility"
+        },
+        {
+          "id": 17,
+          "title": "Airport transfer",
+          "category": "property-facility"
+        },
+        {
+          "id": 58,
+          "title": "Sauna",
+          "category": "property-facility"
+        }
+      ]
+    },
+    "priceDetails": {
+      "startsFrom": 1200
+    }
+  },
+  {
+    "hotelId": 4,
+    "basicInfo": {
+      "hotelName": "Ivory Pearl",
+      "address": {
+        "countryCode": "IN",
+        "country": {
+          "id": 35,
+          "name": "India"
+        },
+        "city": {
+          "id": 17269,
+          "name": "Mumbai"
+        },
+        "area": {
+          "id": 483419,
+          "name": "Old Mahabalipuram Road & East Coast Road"
+        }
+      }
+    },
+    "geoInfo": {
+      "latitude": 12.84206771850586,
+      "longitude": 80.22769165039062
+    },
+    "hotelBanner": {
+      "url": "https://cf.bstatic.com/xdata/images/hotel/square600/619145081.webp?k=94be8c4fd9de7e84d7ecc75e23891a60e3f5c8859dbc7554bbd62c30e21dad98&o="
+    },
+    "hotelFacilityImages": [
+      {
+        "id": 41469082,
+        "category": "Food and beverages",
+        "providerId": 3038,
+        "urls": {
+          "key": "original",
+          "value": "https://cf.bstatic.com/xdata/images/hotel/max500/605165063.jpg?k=2d3768665c835b7d1a60a5354f3575ebe64cff18386df3197b12420b0618cc88&o="
+        }
+      },
+      {
+        "id": 70234968,
+        "category": "Swimming pool",
+        "providerId": 332,
+        "urls": {
+          "key": "original",
+          "value": "https://cf.bstatic.com/xdata/images/hotel/max500/605165196.jpg?k=51ad338654e50eec641295ad092a365200c96a1c4b78820b26b24df797b7900b&o="
+        }
+      },
+      {
+        "id": 41469063,
+        "category": "Lobby",
+        "providerId": 3038,
+        "urls": {
+          "key": "original",
+          "value": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/605166622.jpg?k=716ea84f276bcf416db1ecc2d458bafd9d508c84823a12e5121a3d7f30029d3d&o="
+        }
+      },
+      {
+        "id": 41469061,
+        "category": "Food and beverages",
+        "providerId": 3038,
+        "urls": {
+          "key": "original",
+          "value": "https://cf.bstatic.com/xdata/images/hotel/max300/605165052.jpg?k=7ea8d374f946ca73f2e47ae5f8c50425a8d2630f7d77842982522092b125ab29&o="
+        }
+      }
+    ],
+    "facilities": {
+      "features": [
+        {
+          "id": 93,
+          "title": "Swimming pool",
+          "category": ""
+        },
+        {
+          "id": 17,
+          "title": "Airport transfer",
+          "category": "property-facility"
+        },
+        {
+          "id": 58,
+          "title": "Sauna",
+          "category": "property-facility"
+        }
+      ]
+    },
+    "priceDetails": {
+      "startsFrom": 1200
+    }
+  }
+]

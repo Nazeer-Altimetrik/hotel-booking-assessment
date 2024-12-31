@@ -1,0 +1,182 @@
+[
+    {
+        "hotelId": 1,
+        "roomInfo": [
+          {
+            "roomId": 2,
+            "title": "Classic",
+            "price": {
+              "perRoom": 1200
+            },
+            "availableDate": null,
+            "roomFacililites": [
+              {
+                "id": 2,
+                "title": "Double Bed"
+              },
+              {
+                "id": 4,
+                "title": "Free Wifi"
+              },
+              {
+                "id": 5,
+                "title": "Private Pool"
+              }
+            ],
+            "roomImages": [
+              {
+                "key": "main",
+                "value": "//q-xx.bstatic.com/xdata/images/hotel/max1024x768/605767948.jpg?k=4fca19a2d17959f128223e53f0705dc340b6b933ca0452f3096e506eadc61cd5&o="
+              },
+              {
+                "key": "gallery_preview",
+                "value": "//q-xx.bstatic.com/xdata/images/hotel/max300/605767948.jpg?k=4fca19a2d17959f128223e53f0705dc340b6b933ca0452f3096e506eadc61cd5&o="
+              },
+              {
+                "key": "thumbnail",
+                "value": "//q-xx.bstatic.com/xdata/images/hotel/max300/605767948.jpg?k=4fca19a2d17959f128223e53f0705dc340b6b933ca0452f3096e506eadc61cd5&o="
+              },
+              {
+                "key": "thumbnail-2x",
+                "value": "//q-xx.bstatic.com/xdata/images/hotel/max300/605767948.jpg?k=4fca19a2d17959f128223e53f0705dc340b6b933ca0452f3096e506eadc61cd5&o="
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "hotelId": 2,
+        "roomInfo": [
+          {
+            "roomId": 2,
+            "title": "Classic",
+            "price": {
+              "perRoom": 1200
+            },
+            "availableDate": null,
+            "roomFacililites": [
+              {
+                "id": 2,
+                "title": "Double Bed"
+              },
+              {
+                "id": 4,
+                "title": "Free Wifi"
+              },
+              {
+                "id": 5,
+                "title": "Private Pool"
+              }
+            ],
+            "roomImages": [
+              {
+                "key": "main",
+                "value": "//q-xx.bstatic.com/xdata/images/hotel/max1024x768/605767948.jpg?k=4fca19a2d17959f128223e53f0705dc340b6b933ca0452f3096e506eadc61cd5&o="
+              },
+              {
+                "key": "gallery_preview",
+                "value": "//q-xx.bstatic.com/xdata/images/hotel/max300/605767948.jpg?k=4fca19a2d17959f128223e53f0705dc340b6b933ca0452f3096e506eadc61cd5&o="
+              },
+              {
+                "key": "thumbnail",
+                "value": "//q-xx.bstatic.com/xdata/images/hotel/max300/605767948.jpg?k=4fca19a2d17959f128223e53f0705dc340b6b933ca0452f3096e506eadc61cd5&o="
+              },
+              {
+                "key": "thumbnail-2x",
+                "value": "//q-xx.bstatic.com/xdata/images/hotel/max300/605767948.jpg?k=4fca19a2d17959f128223e53f0705dc340b6b933ca0452f3096e506eadc61cd5&o="
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "hotelId": 3,
+        "roomInfo": [
+          {
+            "roomId": 2,
+            "title": "Classic",
+            "price": {
+              "perRoom": 1200
+            },
+            "availableDate": null,
+            "roomFacililites": [
+              {
+                "id": 2,
+                "title": "Double Bed"
+              },
+              {
+                "id": 4,
+                "title": "Free Wifi"
+              },
+              {
+                "id": 5,
+                "title": "Private Pool"
+              }
+            ],
+            "roomImages": [
+              {
+                "key": "main",
+                "value": "//q-xx.bstatic.com/xdata/images/hotel/max1024x768/605767948.jpg?k=4fca19a2d17959f128223e53f0705dc340b6b933ca0452f3096e506eadc61cd5&o="
+              },
+              {
+                "key": "gallery_preview",
+                "value": "//q-xx.bstatic.com/xdata/images/hotel/max300/605767948.jpg?k=4fca19a2d17959f128223e53f0705dc340b6b933ca0452f3096e506eadc61cd5&o="
+              },
+              {
+                "key": "thumbnail",
+                "value": "//q-xx.bstatic.com/xdata/images/hotel/max300/605767948.jpg?k=4fca19a2d17959f128223e53f0705dc340b6b933ca0452f3096e506eadc61cd5&o="
+              },
+              {
+                "key": "thumbnail-2x",
+                "value": "//q-xx.bstatic.com/xdata/images/hotel/max300/605767948.jpg?k=4fca19a2d17959f128223e53f0705dc340b6b933ca0452f3096e506eadc61cd5&o="
+              }
+            ]
+          }
+        ]
+      },{
+        "hotelId": 4,
+        "roomInfo": [
+          {
+            "roomId": 2,
+            "title": "Classic",
+            "price": {
+              "perRoom": 1200
+            },
+            "availableDate": null,
+            "roomFacililites": [
+              {
+                "id": 2,
+                "title": "Double Bed"
+              },
+              {
+                "id": 4,
+                "title": "Free Wifi"
+              },
+              {
+                "id": 5,
+                "title": "Private Pool"
+              }
+            ],
+            "roomImages": [
+              {
+                "key": "main",
+                "value": "//q-xx.bstatic.com/xdata/images/hotel/max1024x768/605767948.jpg?k=4fca19a2d17959f128223e53f0705dc340b6b933ca0452f3096e506eadc61cd5&o="
+              },
+              {
+                "key": "gallery_preview",
+                "value": "//q-xx.bstatic.com/xdata/images/hotel/max300/605767948.jpg?k=4fca19a2d17959f128223e53f0705dc340b6b933ca0452f3096e506eadc61cd5&o="
+              },
+              {
+                "key": "thumbnail",
+                "value": "//q-xx.bstatic.com/xdata/images/hotel/max300/605767948.jpg?k=4fca19a2d17959f128223e53f0705dc340b6b933ca0452f3096e506eadc61cd5&o="
+              },
+              {
+                "key": "thumbnail-2x",
+                "value": "//q-xx.bstatic.com/xdata/images/hotel/max300/605767948.jpg?k=4fca19a2d17959f128223e53f0705dc340b6b933ca0452f3096e506eadc61cd5&o="
+              }
+            ]
+          }
+        ]
+      }
+
+]

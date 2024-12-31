@@ -1,0 +1,1092 @@
+{
+    "propertyId": 109837,
+    "sponsoredDetail": {
+        "sponsoredType": "NoSponsored",
+        "trackingData": null,
+        "isShowSponsoredFlag": false
+    },
+    "propertyResultType": "NormalProperty",
+    "content": {
+        "informationSummary": {
+            "hotelCharacter": null,
+            "propertyLinks": {
+                "propertyPage": "/gokulam-park-sabari-omr-sipcot/hotel/chennai-in.html"
+            },
+            "atmospheres": [
+                {
+                    "id": 4,
+                    "name": "sightseeing"
+                },
+                {
+                    "id": 7,
+                    "name": "religious places"
+                },
+                {
+                    "id": 9,
+                    "name": "beaches"
+                }
+            ],
+            "isSustainableTravel": false,
+            "localeName": "Gokulam Park Sabari OMR SIPCOT",
+            "defaultName": "Gokulam Park Sabari OMR SIPCOT",
+            "displayName": "Gokulam Park Sabari OMR SIPCOT",
+            "accommodationType": 34,
+            "awardYear": "2024",
+            "hasHostExperience": false,
+            "nhaSummary": {
+                "hostPropertyCount": 0
+            },
+            "address": {
+                "countryCode": "IN",
+                "country": {
+                    "id": 35,
+                    "name": "India"
+                },
+                "city": {
+                    "id": 17269,
+                    "name": "Chennai"
+                },
+                "area": {
+                    "id": 483419,
+                    "name": "Old Mahabalipuram Road & East Coast Road"
+                }
+            },
+            "propertyType": "Hotel",
+            "rating": 4,
+            "agodaGuaranteeProgram": false,
+            "remarks": null,
+            "spokenLanguages": [
+                {
+                    "id": 1
+                },
+                {
+                    "id": 35
+                }
+            ],
+            "geoInfo": {
+                "latitude": 12.84206771850586,
+                "longitude": 80.22769165039062
+            }
+        },
+        "propertyEngagement": {
+            "lastBooking": "2024-12-04T04:54:22.623+07:00",
+            "peopleLooking": 0
+        },
+        "nonHotelAccommodation": {
+            "masterRooms": [],
+            "hostLevel": null,
+            "supportedLongStay": null
+        },
+        "facilities": [],
+        "images": {
+            "hotelImages": [
+                {
+                    "id": 36841130,
+                    "caption": "",
+                    "providerId": 332,
+                    "urls": [
+                        {
+                            "key": "original",
+                            "value": "//pix8.agoda.net/hotelImages/109/109837/109837_15101414010036841130.jpg?ca=5&ce=1"
+                        }
+                    ]
+                },
+                {
+                    "id": 41469078,
+                    "caption": "",
+                    "providerId": 3038,
+                    "urls": [
+                        {
+                            "key": "original",
+                            "value": "//q-xx.bstatic.com/xdata/images/hotel/max500/179597877.jpg?k=bee0b623c55c4194e11a7d7f2c6641aa3c1fd052d680dbdd60b4bdc6ba84faa3&o="
+                        }
+                    ]
+                },
+                {
+                    "id": 41469082,
+                    "caption": "Food and beverages",
+                    "providerId": 3038,
+                    "urls": [
+                        {
+                            "key": "original",
+                            "value": "//q-xx.bstatic.com/xdata/images/hotel/max500/172730796.jpg?k=bb686ccd9f752daef5558a2904d2a7cca350aa23b2f92dd3c07f6063f2ce86f2&o="
+                        }
+                    ]
+                },
+                {
+                    "id": 70234968,
+                    "caption": "Swimming pool",
+                    "providerId": 332,
+                    "urls": [
+                        {
+                            "key": "original",
+                            "value": "//pix8.agoda.net/hotelImages/109837/-1/b42f8ecee149ecac059d7022ccf0879c.jpg?ca=7&ce=1"
+                        }
+                    ]
+                },
+                {
+                    "id": 41469063,
+                    "caption": "Lobby",
+                    "providerId": 3038,
+                    "urls": [
+                        {
+                            "key": "original",
+                            "value": "//q-xx.bstatic.com/xdata/images/hotel/max500/172731757.jpg?k=d4cde7a06b76ddf4f10cee54507b10bbf88c83b114ded13a06d85f4ab57313f0&o="
+                        }
+                    ]
+                },
+                {
+                    "id": 41469061,
+                    "caption": "Food and beverages",
+                    "providerId": 3038,
+                    "urls": [
+                        {
+                            "key": "original",
+                            "value": "//q-xx.bstatic.com/xdata/images/hotel/max500/56747671.jpg?k=f59a9005c2ecafcaba061fbdb58861d0d16019c6699b0cd259191e2794b0c58f&o="
+                        }
+                    ]
+                },
+                {
+                    "id": 41469065,
+                    "caption": "Food and beverages",
+                    "providerId": 3038,
+                    "urls": [
+                        {
+                            "key": "original",
+                            "value": "//q-xx.bstatic.com/xdata/images/hotel/max500/172730754.jpg?k=75fb0d073a12bb086ec3cf771e185405b96ec6e3c269cd28e27c560eb12d8a8b&o="
+                        }
+                    ]
+                },
+                {
+                    "id": 41469069,
+                    "caption": "",
+                    "providerId": 3038,
+                    "urls": [
+                        {
+                            "key": "original",
+                            "value": "//q-xx.bstatic.com/xdata/images/hotel/max500/132444035.jpg?k=0e77f0f6c5f0afc34e8f994103d36a223eb5c628e9e7d6dc53db7b2b1626a78e&o="
+                        }
+                    ]
+                },
+                {
+                    "id": 70234950,
+                    "caption": "Exterior view",
+                    "providerId": 332,
+                    "urls": [
+                        {
+                            "key": "original",
+                            "value": "//pix8.agoda.net/hotelImages/109837/-1/df50b6e807f78c3c45da0ee435b9aa2b.jpg?ca=7&ce=1"
+                        }
+                    ]
+                },
+                {
+                    "id": 70234932,
+                    "caption": "Restaurant",
+                    "providerId": 332,
+                    "urls": [
+                        {
+                            "key": "original",
+                            "value": "//pix8.agoda.net/hotelImages/109837/-1/b81dcfe37390f0e143f53880271bd696.jpg?ca=7&ce=1"
+                        }
+                    ]
+                }
+            ]
+        },
+        "reviews": {
+            "contentReview": [
+                {
+                    "isDefault": true,
+                    "providerId": 332,
+                    "demographics": {
+                        "groups": [
+                            {
+                                "id": 0,
+                                "grades": [
+                                    {
+                                        "id": "overall",
+                                        "score": 8.3
+                                    },
+                                    {
+                                        "id": "cleanliness",
+                                        "score": 8.5
+                                    },
+                                    {
+                                        "id": "facilities",
+                                        "score": 8.4
+                                    },
+                                    {
+                                        "id": "location",
+                                        "score": 8.6
+                                    },
+                                    {
+                                        "id": "roomComfort",
+                                        "score": 7.6
+                                    },
+                                    {
+                                        "id": "staffPerformance",
+                                        "score": 8.4
+                                    },
+                                    {
+                                        "id": "valueForMoney",
+                                        "score": 8.5
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 1,
+                                "grades": [
+                                    {
+                                        "id": "overall",
+                                        "score": 8.1
+                                    },
+                                    {
+                                        "id": "cleanliness",
+                                        "score": 8.2
+                                    },
+                                    {
+                                        "id": "facilities",
+                                        "score": 8.1
+                                    },
+                                    {
+                                        "id": "location",
+                                        "score": 8.3
+                                    },
+                                    {
+                                        "id": "roomComfort",
+                                        "score": 7.8
+                                    },
+                                    {
+                                        "id": "staffPerformance",
+                                        "score": 8
+                                    },
+                                    {
+                                        "id": "valueForMoney",
+                                        "score": 8.2
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 2,
+                                "grades": [
+                                    {
+                                        "id": "overall",
+                                        "score": 8.6
+                                    },
+                                    {
+                                        "id": "cleanliness",
+                                        "score": 8.6
+                                    },
+                                    {
+                                        "id": "facilities",
+                                        "score": 8.5
+                                    },
+                                    {
+                                        "id": "location",
+                                        "score": 8.7
+                                    },
+                                    {
+                                        "id": "roomComfort",
+                                        "score": 6
+                                    },
+                                    {
+                                        "id": "staffPerformance",
+                                        "score": 8.5
+                                    },
+                                    {
+                                        "id": "valueForMoney",
+                                        "score": 8.6
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 3,
+                                "grades": [
+                                    {
+                                        "id": "overall",
+                                        "score": 8.6
+                                    },
+                                    {
+                                        "id": "cleanliness",
+                                        "score": 8.6
+                                    },
+                                    {
+                                        "id": "facilities",
+                                        "score": 8.4
+                                    },
+                                    {
+                                        "id": "location",
+                                        "score": 8.7
+                                    },
+                                    {
+                                        "id": "roomComfort",
+                                        "score": 9
+                                    },
+                                    {
+                                        "id": "staffPerformance",
+                                        "score": 8.5
+                                    },
+                                    {
+                                        "id": "valueForMoney",
+                                        "score": 8.6
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 4,
+                                "grades": [
+                                    {
+                                        "id": "overall",
+                                        "score": 8.1
+                                    },
+                                    {
+                                        "id": "cleanliness",
+                                        "score": 8.1
+                                    },
+                                    {
+                                        "id": "facilities",
+                                        "score": 7.8
+                                    },
+                                    {
+                                        "id": "location",
+                                        "score": 8.4
+                                    },
+                                    {
+                                        "id": "roomComfort",
+                                        "score": 6
+                                    },
+                                    {
+                                        "id": "staffPerformance",
+                                        "score": 7.9
+                                    },
+                                    {
+                                        "id": "valueForMoney",
+                                        "score": 8.1
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 5,
+                                "grades": [
+                                    {
+                                        "id": "overall",
+                                        "score": 8.4
+                                    },
+                                    {
+                                        "id": "cleanliness",
+                                        "score": 8.3
+                                    },
+                                    {
+                                        "id": "facilities",
+                                        "score": 8.3
+                                    },
+                                    {
+                                        "id": "location",
+                                        "score": 8.3
+                                    },
+                                    {
+                                        "id": "staffPerformance",
+                                        "score": 8.7
+                                    },
+                                    {
+                                        "id": "valueForMoney",
+                                        "score": 8.5
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 6,
+                                "grades": [
+                                    {
+                                        "id": "overall",
+                                        "score": 8.4
+                                    },
+                                    {
+                                        "id": "cleanliness",
+                                        "score": 8.5
+                                    },
+                                    {
+                                        "id": "facilities",
+                                        "score": 8.3
+                                    },
+                                    {
+                                        "id": "location",
+                                        "score": 8.5
+                                    },
+                                    {
+                                        "id": "roomComfort",
+                                        "score": 8
+                                    },
+                                    {
+                                        "id": "staffPerformance",
+                                        "score": 8.3
+                                    },
+                                    {
+                                        "id": "valueForMoney",
+                                        "score": 8.6
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    "summaries": {
+                        "recommendationScores": [
+                            {
+                                "recommendationScore": 85
+                            }
+                        ],
+                        "snippets": [
+                            {
+                                "countryId": 35,
+                                "countryCode": "IN",
+                                "countryName": "India",
+                                "date": "2023-06-05T12:58:00.000+07:00",
+                                "demographicId": 3,
+                                "demographicName": "Solo traveler",
+                                "reviewer": "Arawinth",
+                                "reviewRating": 9.6,
+                                "snippet": "For this price this the best hotel with swimming pool"
+                            },
+                            {
+                                "countryId": 35,
+                                "countryCode": "IN",
+                                "countryName": "India",
+                                "date": "2023-07-20T11:30:00.000+07:00",
+                                "demographicId": 2,
+                                "demographicName": "Couple",
+                                "reviewer": "Devipriya",
+                                "reviewRating": 7.6,
+                                "snippet": "Besttt best place to stay for couples"
+                            },
+                            {
+                                "countryId": 35,
+                                "countryCode": "IN",
+                                "countryName": "India",
+                                "date": "2023-06-25T09:52:00.000+07:00",
+                                "demographicId": 1,
+                                "demographicName": "Business traveler",
+                                "reviewer": "Yenduri",
+                                "reviewRating": 10,
+                                "snippet": "Perfect Stay with all Amenities"
+                            },
+                            {
+                                "countryId": 35,
+                                "countryCode": "IN",
+                                "countryName": "India",
+                                "date": "2023-08-22T11:27:00.000+07:00",
+                                "demographicId": 6,
+                                "demographicName": "Group",
+                                "reviewer": "Bharani",
+                                "reviewRating": 10,
+                                "snippet": "Rooms were very spacious and quiet and A/C works normally."
+                            },
+                            {
+                                "countryId": 35,
+                                "countryCode": "IN",
+                                "countryName": "India",
+                                "date": "2021-04-28T09:21:00.000+07:00",
+                                "demographicId": 2,
+                                "demographicName": "Couple",
+                                "reviewer": "NASIM",
+                                "reviewRating": 10,
+                                "snippet": "Front desk staff Pooja very helpful and courteous"
+                            }
+                        ]
+                    },
+                    "cumulative": {
+                        "reviewCount": 2746,
+                        "score": 8.3
+                    }
+                },
+                {
+                    "isDefault": false,
+                    "providerId": 3038,
+                    "demographics": null,
+                    "summaries": null,
+                    "cumulative": {
+                        "reviewCount": 56,
+                        "score": 7.7
+                    }
+                },
+                {
+                    "isDefault": false,
+                    "providerId": 29100,
+                    "demographics": null,
+                    "summaries": null,
+                    "cumulative": {
+                        "reviewCount": 40,
+                        "score": 8.4
+                    }
+                }
+            ],
+            "cumulative": {
+                "reviewCount": 2746,
+                "score": 8.3
+            },
+            "cumulativeForHost": null
+        },
+        "familyFeatures": {
+            "hasChildrenFreePolicy": true,
+            "isFamilyRoom": true,
+            "hasMoreThanOneBedroom": true,
+            "isInterConnectingRoom": true,
+            "isInfantCottageAvailable": false,
+            "hasKidsPool": false,
+            "hasKidsClub": false
+        },
+        "personalizedInformation": {
+            "childrenFreePolicy": {
+                "fromAge": 0,
+                "toAge": 18
+            }
+        },
+        "localInformation": {
+            "landmarks": {
+                "transportation": [],
+                "topLandmark": [
+                    {
+                        "landmarkName": "VGP Snow Kingdom",
+                        "distanceInM": 8310.81
+                    },
+                    {
+                        "landmarkName": "Shirdi Sai Baba Temple",
+                        "distanceInM": 9938.76
+                    }
+                ],
+                "beach": [
+                    {
+                        "landmarkName": "Covelong Beach",
+                        "distanceInM": 6473.06
+                    }
+                ]
+            },
+            "hasAirportTransfer": false
+        },
+        "highlight": {
+            "cityCenter": {
+                "distanceFromCityCenter": 20950.442474696967
+            },
+            "favoriteFeatures": {
+                "features": [
+                    {
+                        "id": 93,
+                        "title": "Swimming pool",
+                        "category": "property-facility"
+                    },
+                    {
+                        "id": 17,
+                        "title": "Airport transfer",
+                        "category": "property-facility"
+                    },
+                    {
+                        "id": 58,
+                        "title": "Sauna",
+                        "category": "property-facility"
+                    },
+                    {
+                        "id": 153623,
+                        "title": "DakshinaChitra Museum",
+                        "category": "landmark"
+                    }
+                ]
+            },
+            "hasNearbyPublicTransportation": false
+        },
+        "rateCategories": {
+            "escapeRateCategories": null
+        }
+    },
+    "soldOut": null,
+    "pricing": {
+        "pulseCampaignMetadata": null,
+        "isAvailable": true,
+        "isReady": true,
+        "benefits": [
+            115,
+            1,
+            6,
+            34,
+            230,
+            95
+        ],
+        "cheapestRoomOffer": {
+            "agodaCash": {
+                "showBadge": false,
+                "giftcardGuid": "",
+                "dayToEarn": 0,
+                "earnId": 0,
+                "percentage": null,
+                "expiryDay": 0
+            },
+            "cashback": {
+                "cashbackGuid": "",
+                "showPostCashbackPrice": true,
+                "cashbackVersion": "Aggressive",
+                "percentage": 17.191,
+                "earnId": 4,
+                "dayToEarn": 60,
+                "expiryDay": 120,
+                "cashbackType": "Agoda",
+                "appliedCampaignName": null
+            }
+        },
+        "isEasyCancel": false,
+        "isInsiderDeal": false,
+        "suggestPriceType": {
+            "suggestPrice": "Exclusive"
+        },
+        "roomBundle": null,
+        "pointmax": null,
+        "priceChange": null,
+        "payment": {
+            "cancellation": {
+                "cancellationType": "FreeCancellation",
+                "freeCancellationDate": "2025-01-06T00:00:00.000+07:00"
+            },
+            "payLater": {
+                "isEligible": false
+            },
+            "payAtHotel": {
+                "isEligible": true
+            },
+            "noCreditCard": {
+                "isEligible": true
+            },
+            "taxReceipt": {
+                "isEligible": false
+            }
+        },
+        "cheapestStayPackageRatePlans": [
+            {
+                "stayPackageType": 0,
+                "ratePlanId": 0
+            }
+        ],
+        "pricingMessages": [
+            {
+                "location": 2,
+                "ids": [
+                    103007
+                ]
+            }
+        ],
+        "suppliersSummaries": [
+            {
+                "id": 332,
+                "supplierHotelId": null
+            },
+            {
+                "id": 3038,
+                "supplierHotelId": "266460"
+            },
+            {
+                "id": 27966,
+                "supplierHotelId": "00004059"
+            },
+            {
+                "id": 28999,
+                "supplierHotelId": null
+            }
+        ],
+        "supplierInfo": null,
+        "childPolicy": {
+            "freeChildren": 0
+        },
+        "growthProgramInfo": null,
+        "offers": [
+            {
+                "bundleType": "NormalOffer",
+                "bundleDetail": null,
+                "roomOffers": [
+                    {
+                        "room": {
+                            "extraPriceInfo": {
+                                "displayPriceWithSurchargesPRPN": null,
+                                "corDisplayPriceWithSurchargesPRPN": null
+                            },
+                            "availableRooms": 21,
+                            "isPromoEligible": false,
+                            "promotions": null,
+                            "consolidatedAppliedDiscount": {
+                                "totalDiscountJacketMessage": "Rs. 400 applied",
+                                "breakdowns": [
+                                    {
+                                        "title": "Cashback rewards"
+                                    }
+                                ]
+                            },
+                            "bookingDuration": null,
+                            "supplierId": 332,
+                            "corSummary": {
+                                "hasCor": true,
+                                "corType": "HotelLoadCOR",
+                                "isOriginal": true,
+                                "hasOwnCOR": true,
+                                "isBlacklistedCor": false
+                            },
+                            "localVoucher": null,
+                            "pricing": [
+                                {
+                                    "currency": "INR",
+                                    "price": {
+                                        "perNight": {
+                                            "exclusive": {
+                                                "display": 2075.23,
+                                                "cashbackPrice": 400.07,
+                                                "displayAfterCashback": 1675.16,
+                                                "originalPrice": 2075.23
+                                            },
+                                            "inclusive": {
+                                                "display": 2327.23,
+                                                "cashbackPrice": 400.07,
+                                                "displayAfterCashback": 1927.16,
+                                                "originalPrice": 2327.23
+                                            }
+                                        },
+                                        "perBook": {
+                                            "exclusive": {
+                                                "display": 2075.23,
+                                                "cashbackPrice": 400.07,
+                                                "displayAfterCashback": 1675.16,
+                                                "rebatePrice": 0,
+                                                "originalPrice": 2075.23,
+                                                "autoAppliedPromoDiscount": null
+                                            },
+                                            "inclusive": {
+                                                "display": 2327.23,
+                                                "cashbackPrice": 400.07,
+                                                "displayAfterCashback": 1927.16,
+                                                "rebatePrice": 0,
+                                                "originalPrice": 2327.23,
+                                                "autoAppliedPromoDiscount": null
+                                            }
+                                        },
+                                        "perRoomPerNight": {
+                                            "exclusive": {
+                                                "display": 2075.23,
+                                                "crossedOutPrice": 5500,
+                                                "cashbackPrice": 400.07,
+                                                "displayAfterCashback": 1675.16,
+                                                "rebatePrice": 0,
+                                                "pseudoCouponPrice": 0,
+                                                "originalPrice": 2075.23,
+                                                "loyaltyOfferSummary": {
+                                                    "basePrice": {
+                                                        "exclusive": 2075.23,
+                                                        "allInclusive": 2327.23
+                                                    },
+                                                    "status": null,
+                                                    "offers": []
+                                                }
+                                            },
+                                            "inclusive": {
+                                                "display": 2327.23,
+                                                "crossedOutPrice": 6620,
+                                                "cashbackPrice": 400.07,
+                                                "displayAfterCashback": 1927.16,
+                                                "rebatePrice": 0,
+                                                "pseudoCouponPrice": 0,
+                                                "originalPrice": 2327.23,
+                                                "loyaltyOfferSummary": {
+                                                    "basePrice": {
+                                                        "exclusive": 2075.23,
+                                                        "allInclusive": 2327.23
+                                                    },
+                                                    "status": null,
+                                                    "offers": []
+                                                }
+                                            }
+                                        },
+                                        "totalDiscount": 70,
+                                        "priceAfterAppliedAgodaCash": {
+                                            "perBook": {
+                                                "exclusive": 2075.23,
+                                                "allInclusive": 2327.23
+                                            },
+                                            "perRoomPerNight": {
+                                                "exclusive": 2075.23,
+                                                "allInclusive": 2327.23
+                                            }
+                                        }
+                                    },
+                                    "apsPeek": null,
+                                    "promotionPricePeek": null,
+                                    "channelDiscountSummary": {
+                                        "channelDiscountBreakdown": [
+                                            {
+                                                "display": true,
+                                                "discountPercent": 25,
+                                                "channelId": 54
+                                            }
+                                        ]
+                                    },
+                                    "promotionsCumulative": []
+                                }
+                            ],
+                            "uid": "ChwI7u6YAxACIGwovpOUAjAESgcxRDFOXzFOUJgFEgIIARoGEAIoBDABIgQIBBgC",
+                            "payment": {
+                                "cancellation": {
+                                    "cancellationType": "FreeCancellation"
+                                }
+                            },
+                            "discount": {
+                                "deals": [],
+                                "channelDiscount": null
+                            },
+                            "saveUpTo": {
+                                "perRoomPerNight": 0
+                            },
+                            "benefits": [
+                                {
+                                    "id": 6,
+                                    "targetType": 0
+                                },
+                                {
+                                    "id": 34,
+                                    "targetType": 0
+                                },
+                                {
+                                    "id": 95,
+                                    "targetType": 0
+                                },
+                                {
+                                    "id": 230,
+                                    "targetType": 0
+                                },
+                                {
+                                    "id": 115,
+                                    "targetType": 0
+                                }
+                            ],
+                            "channel": {
+                                "id": 54
+                            },
+                            "mseRoomSummaries": [
+                                {
+                                    "supplierId": 332,
+                                    "subSupplierId": 332,
+                                    "pricingSummaries": [
+                                        {
+                                            "currency": "INR",
+                                            "channelDiscountSummary": {
+                                                "channelDiscountBreakdown": [
+                                                    {
+                                                        "channelId": 54,
+                                                        "discountPercent": 25,
+                                                        "display": true
+                                                    }
+                                                ]
+                                            },
+                                            "price": {
+                                                "perRoomPerNight": {
+                                                    "exclusive": {
+                                                        "display": 2075.23
+                                                    },
+                                                    "inclusive": {
+                                                        "display": 2327.23
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    ]
+                                }
+                            ],
+                            "cashback": {
+                                "cashbackGuid": "",
+                                "showPostCashbackPrice": true,
+                                "cashbackVersion": "Aggressive",
+                                "percentage": 17.191,
+                                "earnId": 4,
+                                "dayToEarn": 60,
+                                "expiryDay": 120,
+                                "cashbackType": "Agoda",
+                                "appliedCampaignName": null
+                            },
+                            "agodaCash": {
+                                "showBadge": false,
+                                "giftcardGuid": "",
+                                "dayToEarn": 0,
+                                "expiryDay": 0,
+                                "percentage": null
+                            },
+                            "corInfo": {
+                                "corBreakdown": {
+                                    "taxExPN": [
+                                        {
+                                            "price": 5500,
+                                            "id": 0
+                                        },
+                                        {
+                                            "price": 2075,
+                                            "id": 1
+                                        }
+                                    ],
+                                    "taxInPN": [
+                                        {
+                                            "price": 6620,
+                                            "id": 0
+                                        },
+                                        {
+                                            "price": 2327,
+                                            "id": 1
+                                        }
+                                    ],
+                                    "taxExPRPN": [
+                                        {
+                                            "price": 5500,
+                                            "id": 0
+                                        },
+                                        {
+                                            "price": 2075,
+                                            "id": 1
+                                        }
+                                    ],
+                                    "taxInPRPN": [
+                                        {
+                                            "price": 6620,
+                                            "id": 0
+                                        },
+                                        {
+                                            "price": 2327,
+                                            "id": 1
+                                        }
+                                    ]
+                                },
+                                "corInfo": {
+                                    "corType": "HotelLoadCOR"
+                                }
+                            },
+                            "loyaltyDisplay": null,
+                            "capacity": {
+                                "extraBedsAvailable": true
+                            },
+                            "pricingMessages": {
+                                "formatted": [
+                                    {
+                                        "location": 2,
+                                        "texts": [
+                                            {
+                                                "index": 0,
+                                                "text": "Send Mix and Save to the SSR"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            "campaign": null,
+                            "stayPackageType": 0
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    "metaLab": {
+        "attributes": [
+            {
+                "attributeId": 8,
+                "dataType": "BOOLEAN",
+                "value": "false",
+                "version": "V1"
+            },
+            {
+                "attributeId": 2,
+                "dataType": "BOOLEAN",
+                "value": "false",
+                "version": "V1"
+            },
+            {
+                "attributeId": 1,
+                "dataType": "BOOLEAN",
+                "value": "true",
+                "version": "V1"
+            },
+            {
+                "attributeId": 7,
+                "dataType": "BOOLEAN",
+                "value": "true",
+                "version": "V1"
+            },
+            {
+                "attributeId": 18,
+                "dataType": "BOOLEAN",
+                "value": "true",
+                "version": "V1"
+            },
+            {
+                "attributeId": 11,
+                "dataType": "BOOLEAN",
+                "value": "true",
+                "version": "V2"
+            }
+        ]
+    },
+    "enrichment": {
+        "topSellingPoint": [
+            {
+                "tspType": "BestValueForMoney",
+                "value": 8.5
+            },
+            {
+                "tspType": "BestSeller",
+                "value": null
+            }
+        ],
+        "pricingBadges": {
+            "badges": [
+                "SuperSaver"
+            ]
+        },
+        "uniqueSellingPoint": [
+            {
+                "rank": 5,
+                "segment": "Couple",
+                "uspType": "ReviewScore",
+                "uspPropertyType": null
+            },
+            {
+                "rank": 1,
+                "segment": null,
+                "uspType": "BestGuestRate",
+                "uspPropertyType": "Hotel4Stars"
+            }
+        ],
+        "bookingHistory": {
+            "bookingCount": {
+                "count": 40,
+                "timeFrame": "PastTwentyFourHours"
+            }
+        },
+        "showReviewSnippet": false,
+        "isPopular": false,
+        "roomInformation": {
+            "cheapestRoomSizeSqm": 25,
+            "facilities": [
+                {
+                    "id": 75,
+                    "propertyFacilityName": "Wi-Fi [free]",
+                    "symbol": "wifi"
+                },
+                {
+                    "id": 2594,
+                    "propertyFacilityName": "Openable window",
+                    "symbol": "confirmation-instant"
+                },
+                {
+                    "id": 43,
+                    "propertyFacilityName": "Balcony/terrace",
+                    "symbol": "balcony-terrace"
+                },
+                {
+                    "id": 29,
+                    "propertyFacilityName": "Desk",
+                    "symbol": "desk"
+                },
+                {
+                    "id": 50,
+                    "propertyFacilityName": "Private pool",
+                    "symbol": "private-pool"
+                }
+            ]
+        }
+    }
+}
